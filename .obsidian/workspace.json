@@ -170,12 +170,17 @@
   },
   "active": "23583c7fa7bd65db",
   "lastOpenFiles": [
+    "public/index.xml",
+    "public/posts/index.xml",
+    "public/posts",
+    "public/categories/index.xml",
+    "public/categories",
+    "public/tags/index.xml",
+    "public/tags",
     "themes/PaperMod",
     "content/_index.md",
     "public/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css",
     "public/assets/css",
-    "public/sitemap.xml",
-    "public/assets",
-    "public"
+    "public/sitemap.xml"
   ]
 }
