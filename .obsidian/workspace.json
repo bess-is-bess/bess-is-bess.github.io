@@ -170,17 +170,21 @@
   },
   "active": "23583c7fa7bd65db",
   "lastOpenFiles": [
+    "README.md",
+    "themes/PaperMod/theme.toml",
+    "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
+    "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
+    "themes/PaperMod/layouts/partials/templates/schema_json.html",
+    "themes/PaperMod/layouts/partials/templates/opengraph.html",
+    "themes/PaperMod/layouts/partials/templates/_funcs",
+    "themes/PaperMod/layouts/_default/_markup/render-image.html",
+    "themes/PaperMod/layouts/shortcodes/rtl.html",
+    "themes/PaperMod/layouts/shortcodes/rawhtml.html",
+    "themes/PaperMod/layouts/shortcodes/ltr.html",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/README.md",
     "content/posts/welcome.md",
-    "public/index.xml",
-    "public/posts/index.xml",
-    "public/posts",
-    "public/categories/index.xml",
-    "public/categories",
-    "public/tags/index.xml",
-    "public/tags",
-    "themes/PaperMod",
-    "content/_index.md",
-    "public/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css",
-    "public/assets/css"
+    "content/_index.md"
   ]
 }
