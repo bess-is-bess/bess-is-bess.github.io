@@ -1,7 +1,6 @@
 ---
 title: "Welcome to Bessie's Study Notes 🍓"
 description: "Obsidian-powered Hugo website for my university journey."
-layout: "home"
 draft: false
 ---
 
