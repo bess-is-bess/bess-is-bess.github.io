@@ -1,0 +1,22 @@
+baseURL = 'https://bess-is-bess.github.io/'
+languageCode = 'en-us'
+title = 'Bess Study Notes'
+theme = 'PaperMod'
+
+[params]
+  author = "Bess"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.math]
+  enable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
