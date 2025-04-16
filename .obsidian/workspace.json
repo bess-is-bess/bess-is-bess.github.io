@@ -170,20 +170,21 @@
   },
   "active": "23583c7fa7bd65db",
   "lastOpenFiles": [
-    "README.md",
     "themes/PaperMod/theme.toml",
     "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
     "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
     "themes/PaperMod/layouts/partials/templates/schema_json.html",
     "themes/PaperMod/layouts/partials/templates/opengraph.html",
-    "themes/PaperMod/layouts/partials/templates/_funcs",
     "themes/PaperMod/layouts/_default/_markup/render-image.html",
+    "themes/PaperMod/layouts/partials/templates/_funcs",
     "themes/PaperMod/layouts/shortcodes/rtl.html",
     "themes/PaperMod/layouts/shortcodes/rawhtml.html",
     "themes/PaperMod/layouts/shortcodes/ltr.html",
+    "themes/PaperMod/layouts/shortcodes/inTextImg.html",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md",
+    "README.md",
     "content/posts/welcome.md",
     "content/_index.md"
   ]
